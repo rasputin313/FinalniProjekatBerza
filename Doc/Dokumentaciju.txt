@@ -1,0 +1,25 @@
+butoni na formi1:
+-prave objekte klasa akcije, resursa i nekretnina i dodaje objektu osobe i berze
+-zatim se pravi nova formaOosba kojoj se prosledjuu objekat i berza
+
+butoni izvidi na frmOsoba:
+-u zavisnosti od dugmeta salje ili akciju ili resurs ili nekretninu koju je uzeo iz comboBoxa
+-u comboBoxu su vrednosti osobe koje su prosledjene
+
+buton meni na frmOsoba:
+-zatvara ovu formu i vraca nas na pocetnu formu
+
+buton berza na frmOsoba:
+-salje objekat berze koje je primila od pocetne forme
+
+buton izvidi na frmBerza:
+-u zavisnosti od dugmeta salje ili akciju ili resurs ili nekretninu koju je uzeo iz comboBoxa
+-u comboBoxu su vrednosti osobe koje su prosledjene
+
+buton kupi na frmBerza:
+-u zavisnosti od dugmeta salje ili akciju ili resurs ili nekretninu iz comboBoxa u comboBox od osobe koji se nalazi pored
+-comboBoxovi berze su popunjeni podacima berze
+-comboBoxovi osobe su popunjeni podacim osobe
+
+buton osoba na frmBerza:
+-zatvara formu vraca nas na frmOsoba
